@@ -1,3 +1,5 @@
+<!-- GitHub profile README -->
+
 # Mohammad Arifur Rahman
 
 M.S. Computer Science student at Anderson University working on **trustworthy NLP, LLM evaluation, and robust machine learning**. My current research examines when AI-generated-text detectors fail under paraphrasing and how careful evaluation can reveal failure patterns hidden by aggregate metrics.
