@@ -36,4 +36,4 @@ Python | PyTorch | Hugging Face | scikit-learn | NLP evaluation | Deep learning 
 
 ## Connect
 
-[Portfolio](https://arifur-rahman-profile.web.app/) | [Email](mailto:rahman.arif.cse@gmail.com)
+[Portfolio](https://ari-fur.com/) | [Email](mailto:rahman.arif.cse@gmail.com)
